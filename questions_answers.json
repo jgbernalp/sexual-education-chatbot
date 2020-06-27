@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "title": "Enfermedades de transmision sexual",
+      "paragraphs": [
+        {
+          "context": "Las enfermedades de transmisión sexual son infecciones que se contagian de una persona a otra ususalmente durante el sexo vaginal, anal u oral. Son muy comunes, y muchas personas que las tienen no presentan síntomas. Sin tratamiento, las ETS pueden causar serios problemas de salud. La buena noticia es que hacerse la prueba no es complicado y que la mayoría de estas enfermedades son fáciles de tratar.",
+          "qas": [
+            {
+              "question": "¿Que es una enfermedad de transmision sexual?",
+              "answers": [
+                {
+                  "text": "son infecciones que se contagian de una persona a otra ususalmente durante el sexo vaginal, anal u oral."
+                },
+                {
+                  "text": "son infecciones que se contagian de una persona a otra"
+                },
+                { "text": "son infecciones que se contagian" }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Generalmente, las enfermedades de transmisión sexual (ETS) no tienen síntomas. La única manera de saber con seguridad si tienes una ETS es hacerte una prueba. De modo que si tuviste sexo vaginal, anal u oral, habla con tu doctora o enfermero acerca de estos exámenes.",
+          "qas": [
+            {
+              "question": "¿Debería hacerme la prueba para las enfermedades de transmision sexual (ETS)?",
+              "answers": [
+                {
+                  "text": "La única manera de saber con seguridad si tienes una ETS es hacerte una prueba"
+                },
+                {
+                  "text": "La única manera de saber con seguridad si tienes una ETS es hacerte una prueba"
+                },
+                {
+                  "text": "habla con tu doctora o enfermero acerca de estos exámenes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Si tuviste contacto sexual con otra persona y adviertes algún signo de ETS, consulta con un médico o enfermera acerca de las pruebas. Los síntomas de las ETS pueden aparecer y desaparecer con el tiempo, lo cual significa que la enfermedad se haya ido. Es habitual que los síntomas de las ETS sean muy leves y que no te afecten, pero igualmente debes ver a una doctora o enfermero si notas cualquier cosa que te parezca extraña. Todos estos síntomas pueden ser causados por afecciones que no son ETS (como granos, infecciones urinarias, e infecciones vaginales por hongos). De modo que la única manera de saber con seguridad lo que está pasando es hacerte una prueba. Habla con tu médico o enfermero acerca de los síntomas, qué tipo de sexo tuviste (vaginal, anal u oral) y si debes usar condones y/o barreras de látex bucales.  Ellos te ayudarán a determinar qué tipo de pruebas o tratamientos puedes necesitar.",
+          "qas": [
+            {
+              "question": "¿Cuales son los sintomas de las enfermedades de transmision sexual (ETS)?",
+              "answers": [
+                {
+                  "text": "Llagas o protuberancias en los genitales o alrededor de ellos, en los mulsos o en las nalgas"
+                },
+                {
+                  "text": "Secreción rara de la vagina o el pene"
+                },
+                {
+                  "text": "Ardor al orinar y/o constante necesidad de orinar"
+                },
+                {
+                  "text": "Picazón, dolor, irritación y/o inflamación del pene, la vagina, la vulva o el ano"
+                },
+                {
+                  "text": "Síntomas parecidos a los de la gripe, como fiebre, dolor corporal, glándulas inflamadas y sensación de cansancio."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Consentimiento (dar permiso/aprobación) es cuando una persona acepta hacer algo libremente. Cuando se trata de sexo, el consentimiento es obligatorio, todas y cada una de las veces. El consentimiento es cuando una persona acepta tener algo sexual contigo -sea besarse, tocarse, sexo oral, sexo vaginal o sexo anal. Antes de hacer cualquiera de estas cosas, se necesita saber con total claridad que ambas personas lo quieren. Esto significa que si quieres tener algo sexual con alguien, necesitas preguntar primero. Si no preguntas antes de empezar a tocar, besar o tener algo sexual con otra persona, y él o ella no dice “si”, entonces no tienes el permiso de esa persona, y lo que le hagas puede ser considerado violación o agresión sexual. Es por eso que obtener consentimiento es fundamental. Pedir permiso/obtener consentimiento no es difícil o extraño. De hecho, permite que las cosas sexis sean menos incómodas y confusas cuando hay un consentimiento claro; tienes seguridad de que la persona con la que te encuentras quiere hacer las mismas cosas que tú.",
+          "qas": [
+            {
+              "question": "¿Que es el consentimiento para tener una relacion sexual?",
+              "answers": [
+                {
+                  "text": "El consentimiento es cuando una persona acepta tener algo sexual contigo -sea besarse, tocarse, sexo oral, sexo vaginal o sexo anal"
+                },
+                {
+                  "text": "El consentimiento es cuando una persona acepta tener algo sexual contigo -sea besarse, tocarse, sexo oral, sexo vaginal o sexo anal"
+                },
+                {
+                  "text": "la que te encuentras quiere hacer las mismas cosas que tú."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
