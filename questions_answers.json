@@ -1,83 +1,393 @@
 {
   "data": [
     {
-      "title": "Enfermedades de transmision sexual",
+      "title": "Preguntas de Sexualidad",
       "paragraphs": [
         {
-          "context": "Las enfermedades de transmisión sexual son infecciones que se contagian de una persona a otra ususalmente durante el sexo vaginal, anal u oral. Son muy comunes, y muchas personas que las tienen no presentan síntomas. Sin tratamiento, las ETS pueden causar serios problemas de salud. La buena noticia es que hacerse la prueba no es complicado y que la mayoría de estas enfermedades son fáciles de tratar.",
+          "context": "Son creencias populares que las personas tienen con la convicción que les ayudan prevenir un embarazo, pero realmente no son efectivas ni tienen bases científicas.",
           "qas": [
             {
-              "question": "¿Que es una enfermedad de transmision sexual?",
+              "question": "¿Qué son los métodos sin evidencia científica o mitos?",
               "answers": [
                 {
-                  "text": "son infecciones que se contagian de una persona a otra ususalmente durante el sexo vaginal, anal u oral."
-                },
-                {
-                  "text": "son infecciones que se contagian de una persona a otra"
-                },
-                { "text": "son infecciones que se contagian" }
-              ]
-            }
-          ]
-        },
-        {
-          "context": "Generalmente, las enfermedades de transmisión sexual (ETS) no tienen síntomas. La única manera de saber con seguridad si tienes una ETS es hacerte una prueba. De modo que si tuviste sexo vaginal, anal u oral, habla con tu doctora o enfermero acerca de estos exámenes.",
-          "qas": [
-            {
-              "question": "¿Debería hacerme la prueba para las enfermedades de transmision sexual (ETS)?",
-              "answers": [
-                {
-                  "text": "La única manera de saber con seguridad si tienes una ETS es hacerte una prueba"
-                },
-                {
-                  "text": "La única manera de saber con seguridad si tienes una ETS es hacerte una prueba"
-                },
-                {
-                  "text": "habla con tu doctora o enfermero acerca de estos exámenes"
+                  "text": "Son creencias populares que las personas tienen con la convicción que les ayudan prevenir un embarazo, pero realmente no son efectivas ni tienen bases científicas."
                 }
               ]
             }
           ]
         },
         {
-          "context": "Si tuviste contacto sexual con otra persona y adviertes algún signo de ETS, consulta con un médico o enfermera acerca de las pruebas. Los síntomas de las ETS pueden aparecer y desaparecer con el tiempo, lo cual significa que la enfermedad se haya ido. Es habitual que los síntomas de las ETS sean muy leves y que no te afecten, pero igualmente debes ver a una doctora o enfermero si notas cualquier cosa que te parezca extraña. Todos estos síntomas pueden ser causados por afecciones que no son ETS (como granos, infecciones urinarias, e infecciones vaginales por hongos). De modo que la única manera de saber con seguridad lo que está pasando es hacerte una prueba. Habla con tu médico o enfermero acerca de los síntomas, qué tipo de sexo tuviste (vaginal, anal u oral) y si debes usar condones y/o barreras de látex bucales.  Ellos te ayudarán a determinar qué tipo de pruebas o tratamientos puedes necesitar.",
+          "context": "Son métodos que ayudan a prevenir el embarazo a través de elementos ajenos al cuerpo y se dividen en métodos modernos temporales y métodos modernos definitivos. Como sus nombres lo indican los métodos temporales pueden suspenderse en cualquier momento y la fertilidad retornará si la mujer desea quedar embarazada. Los métodos modernos definitivos son procedimientos quirúrgicos que evitarán que el hombre y la mujer vuelvan a tener hijos de por vida.",
           "qas": [
             {
-              "question": "¿Cuales son los sintomas de las enfermedades de transmision sexual (ETS)?",
+              "question": "¿Qué son métodos modernos?",
               "answers": [
                 {
-                  "text": "Llagas o protuberancias en los genitales o alrededor de ellos, en los mulsos o en las nalgas"
-                },
-                {
-                  "text": "Secreción rara de la vagina o el pene"
-                },
-                {
-                  "text": "Ardor al orinar y/o constante necesidad de orinar"
-                },
-                {
-                  "text": "Picazón, dolor, irritación y/o inflamación del pene, la vagina, la vulva o el ano"
-                },
-                {
-                  "text": "Síntomas parecidos a los de la gripe, como fiebre, dolor corporal, glándulas inflamadas y sensación de cansancio."
+                  "text": "Son métodos que ayudan a prevenir el embarazo a través de elementos ajenos al cuerpo y se dividen en métodos modernos temporales y métodos modernos definitivos. Como sus nombres lo indican los métodos temporales pueden suspenderse en cualquier momento y la fertilidad retornará si la mujer desea quedar embarazada. Los métodos modernos definitivos son procedimientos quirúrgicos que evitarán que el hombre y la mujer vuelvan a tener hijos de por vida."
                 }
               ]
             }
           ]
         },
         {
-          "context": "Consentimiento (dar permiso/aprobación) es cuando una persona acepta hacer algo libremente. Cuando se trata de sexo, el consentimiento es obligatorio, todas y cada una de las veces. El consentimiento es cuando una persona acepta tener algo sexual contigo -sea besarse, tocarse, sexo oral, sexo vaginal o sexo anal. Antes de hacer cualquiera de estas cosas, se necesita saber con total claridad que ambas personas lo quieren. Esto significa que si quieres tener algo sexual con alguien, necesitas preguntar primero. Si no preguntas antes de empezar a tocar, besar o tener algo sexual con otra persona, y él o ella no dice “si”, entonces no tienes el permiso de esa persona, y lo que le hagas puede ser considerado violación o agresión sexual. Es por eso que obtener consentimiento es fundamental. Pedir permiso/obtener consentimiento no es difícil o extraño. De hecho, permite que las cosas sexis sean menos incómodas y confusas cuando hay un consentimiento claro; tienes seguridad de que la persona con la que te encuentras quiere hacer las mismas cosas que tú.",
+          "context": "No, ninguna de estas sustancias tiene efectos anticonceptivos para evitar un embarazo, por lo tanto esa idea sólo hace parte de la imaginación de las personas y de algunas falsas creencias populares. Lo que realmente funciona es el uso adecuado de métodos anticonceptivos modernos o la abstención.",
           "qas": [
             {
-              "question": "¿Que es el consentimiento para tener una relacion sexual?",
+              "question": "¿Es verdad que tomar Coca Cola con Alka Seltzer antes de la relación sexual evita el embarazo?",
               "answers": [
                 {
-                  "text": "El consentimiento es cuando una persona acepta tener algo sexual contigo -sea besarse, tocarse, sexo oral, sexo vaginal o sexo anal"
-                },
+                  "text": "No, ninguna de estas sustancias tiene efectos anticonceptivos para evitar un embarazo, por lo tanto esa idea sólo hace parte de la imaginación de las personas y de algunas falsas creencias populares. Lo que realmente funciona es el uso adecuado de métodos anticonceptivos modernos o la abstención."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Esta es una idea errónea que se ha difundido y se utiliza como una excusa para no usar el condón. El placer durante la relación depende del deseo sexual, la atracción hacia la otra persona, la relación de pareja, los juegos eróticos, de disminuir los riesgos de embarazo e infecciones y de si se tomó la decisión de manera autónoma. Para evitar esas falsas creencias en el mercado se encuentran condones de sabores, texturas y colores, que contribuyen a la estimulación al momento de la relación sexual.",
+          "qas": [
+            {
+              "question": "¿Por qué algunas personas dicen que “con el condón no se siente lo mismo” al tener relaciones sexuales?",
+              "answers": [
                 {
-                  "text": "El consentimiento es cuando una persona acepta tener algo sexual contigo -sea besarse, tocarse, sexo oral, sexo vaginal o sexo anal"
-                },
+                  "text": "Esta es una idea errónea que se ha difundido y se utiliza como una excusa para no usar el condón. El placer durante la relación depende del deseo sexual, la atracción hacia la otra persona, la relación de pareja, los juegos eróticos, de disminuir los riesgos de embarazo e infecciones y de si se tomó la decisión de manera autónoma. Para evitar esas falsas creencias en el mercado se encuentran condones de sabores, texturas y colores, que contribuyen a la estimulación al momento de la relación sexual."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "No, como su nombre lo indica son píldoras anticonceptivas de  emergencia que tienen varias formas de actuar: Incrementan y  vuelven más espeso el moco o flujo del cuello uterino o cérvix,  impidiendo la movilidad y el paso de espermatozoides hacia el  útero. Inhiben o aceleran el proceso de ovulación para que no  ocurra la fecundación.",
+          "qas": [
+            {
+              "question": "",
+              "answers": [
                 {
-                  "text": "la que te encuentras quiere hacer las mismas cosas que tú."
+                  "text": "No, como su nombre lo indica son píldoras anticonceptivas de  emergencia que tienen varias formas de actuar: Incrementan y  vuelven más espeso el moco o flujo del cuello uterino o cérvix,  impidiendo la movilidad y el paso de espermatozoides hacia el  útero. Inhiben o aceleran el proceso de ovulación para que no  ocurra la fecundación."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "No, el uso de anticonceptivos no tiene nada que ver con las  alteraciones reproductivas o problemas de fertilidad, evitan  embarazo mientras la persona los utilice correctamente,  cuando los suspende retorna la fertilidad. Lo que sucede es  que muchas personas utilizan anticonceptivos sin saber sus  posibilidades reproductivas o si tienen alguna alteración;  cuando dejan el método para lograr el embarazo se dan  cuenta que tienen dificultades, pero no por el anticonceptivo  sino que existían previamente.",
+          "qas": [
+            {
+              "question": "¿El uso de métodos anticonceptivos temporales puede  producir infertilidad?",
+              "answers": [
+                {
+                  "text": "No, el uso de anticonceptivos no tiene nada que ver con las  alteraciones reproductivas o problemas de fertilidad, evitan  embarazo mientras la persona los utilice correctamente,  cuando los suspende retorna la fertilidad. Lo que sucede es  que muchas personas utilizan anticonceptivos sin saber sus  posibilidades reproductivas o si tienen alguna alteración;  cuando dejan el método para lograr el embarazo se dan  cuenta que tienen dificultades, pero no por el anticonceptivo  sino que existían previamente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A la edad que lo considere necesario y oportuno. Hombres y  mujeres de cualquier edad tienen derecho a estar informados  y acceder a los métodos anticonceptivos, lo importante es que  la persona conozca el funcionamiento del método, la forma de  uso y si produce efectos secundarios.",
+          "qas": [
+            {
+              "question": "¿A qué edad una persona puede empezar a utilizar métodos  anticonceptivos?",
+              "answers": [
+                {
+                  "text": "A la edad que lo considere necesario y oportuno. Hombres y  mujeres de cualquier edad tienen derecho a estar informados  y acceder a los métodos anticonceptivos, lo importante es que  la persona conozca el funcionamiento del método, la forma de  uso y si produce efectos secundarios."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "No, el condón debe usarse siempre, en todas las relaciones  sexuales porque es el único método que puede prevenir las  Infecciones de Transmisión Sexual (ITS) incluido el VIH/Sida.",
+          "qas": [
+            {
+              "question": "¿Se debe usar el condón sólo si hay riesgo de embarazo?",
+              "answers": [
+                {
+                  "text": "No, el condón debe usarse siempre, en todas las relaciones  sexuales porque es el único método que puede prevenir las  Infecciones de Transmisión Sexual (ITS) incluido el VIH/Sida."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Desde el momento en que tiene su primera ovulación, que  ocurre antes de la primera menstruación. Por lo tanto, si la  mujer tiene una relación sexual sin protección, incluso sin  haber tenido la primera menstruación, puede quedar  embarazada.",
+          "qas": [
+            {
+              "question": "¿A qué edad la mujer puede quedar embarazada?",
+              "answers": [
+                {
+                  "text": "Desde el momento en que tiene su primera ovulación, que  ocurre antes de la primera menstruación. Por lo tanto, si la  mujer tiene una relación sexual sin protección, incluso sin  haber tenido la primera menstruación, puede quedar  embarazada."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Sí, existe la posibilidad de un embarazo porque aunque la  eyaculación se haya quedado en la entrada de la vagina  algunos espermatozoides pueden llegar hasta el óvulo.",
+          "qas": [
+            {
+              "question": "¿Si un hombre eyacula en la entrada de la vagina, la mujer  puede quedar embarazada?",
+              "answers": [
+                {
+                  "text": "Sí, existe la posibilidad de un embarazo porque aunque la  eyaculación se haya quedado en la entrada de la vagina  algunos espermatozoides pueden llegar hasta el óvulo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Sí, aunque sea la primera relación sexual cuando ésta se  practica durante los días fértiles o de ovulación y no se emplea  un método anticonceptivo, la mujer puede quedar  embarazada.",
+          "qas": [
+            {
+              "question": "¿Se puede quedar embarazada en la primera relación sexual?",
+              "answers": [
+                {
+                  "text": "Sí, aunque sea la primera relación sexual cuando ésta se  practica durante los días fértiles o de ovulación y no se emplea  un método anticonceptivo, la mujer puede quedar  embarazada."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A partir de la menarquia (primera menstruación) los ciclos  pueden ser irregulares durante varios meses presentándose  retrasos frecuentes, lo cual está dado por la inmadurez del  cuerpo. Esto puede considerarse normal. Otras causas de  retrasos pueden ser la falta de ovulación, ovulación retardada,  estrés, cambio de clima, situaciones emocionales especiales,  temor al embarazo y embarazo, entre otros. La mayoría de las  causas son fácilmente detectables y tratables.",
+          "qas": [
+            {
+              "question": "¿Por qué se presenta retraso en la menstruación?",
+              "answers": [
+                {
+                  "text": "A partir de la menarquia (primera menstruación) los ciclos  pueden ser irregulares durante varios meses presentándose  retrasos frecuentes, lo cual está dado por la inmadurez del  cuerpo. Esto puede considerarse normal. Otras causas de  retrasos pueden ser la falta de ovulación, ovulación retardada,  estrés, cambio de clima, situaciones emocionales especiales,  temor al embarazo y embarazo, entre otros. La mayoría de las  causas son fácilmente detectables y tratables."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Es un embarazo imaginario y se puede presentar en mujeres  que desean intensamente una gestación. Estas mujeres  presentan todos los síntomas subjetivos de embarazo,  asociados con un considerable aumento del volumen  abdominal, aumento del tamaño de los senos, aparición de  secreción por los pezones y malestar general. A través de una  prueba de embarazo se puede confirmar el diagnóstico y  acudir a tratamiento para solucionar esta alteración emocional  que lleva a desarrollar el embarazo psicológico.",
+          "qas": [
+            {
+              "question": "¿Qué es un embarazo psicológico?",
+              "answers": [
+                {
+                  "text": "Es un embarazo imaginario y se puede presentar en mujeres  que desean intensamente una gestación. Estas mujeres  presentan todos los síntomas subjetivos de embarazo,  asociados con un considerable aumento del volumen  abdominal, aumento del tamaño de los senos, aparición de  secreción por los pezones y malestar general. A través de una  prueba de embarazo se puede confirmar el diagnóstico y  acudir a tratamiento para solucionar esta alteración emocional  que lleva a desarrollar el embarazo psicológico."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Sí, el embarazo en las adolescentes se considera de alto riesgo  y en ellas son más frecuentes alteraciones o enfermedades  como hipertensión, anemia, complicaciones nutricionales,  bajo peso del feto al nacer, parto prematuro y complicaciones  durante el parto. Cuando la madre es una adolescente es más  frecuente que el recién nacido se enferme o fallezca durante  el primer año de vida.",
+          "qas": [
+            {
+              "question": "¿Es peligroso un parto en una mujer menor de 16 años?",
+              "answers": [
+                {
+                  "text": "Sí, el embarazo en las adolescentes se considera de alto riesgo  y en ellas son más frecuentes alteraciones o enfermedades  como hipertensión, anemia, complicaciones nutricionales,  bajo peso del feto al nacer, parto prematuro y complicaciones  durante el parto. Cuando la madre es una adolescente es más  frecuente que el recién nacido se enferme o fallezca durante  el primer año de vida."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "La responsabilidad es de los dos debido a que es una situación  que hace parte del proyecto de vida de cada uno(a). Se debe  tener en cuenta que la protección es de ambos.",
+          "qas": [
+            {
+              "question": "¿De quién es la responsabilidad de prevenir un embarazo, del  hombre o de la mujer?",
+              "answers": [
+                {
+                  "text": "La responsabilidad es de los dos debido a que es una situación  que hace parte del proyecto de vida de cada uno(a). Se debe  tener en cuenta que la protección es de ambos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "También llamados sueños eróticos son sensaciones de  excitación durante el sueño. Se presentan tanto en hombres  como en mujeres. En el caso de los hombres pueden producir  una eyaculación. En las mujeres un aumento de lubricación en  la vagina. No tienen que ver nada con la fidelidad hacia la  pareja, ni con las creencias o valores de la persona, puesto que  son involuntarios e inconscientes.",
+          "qas": [
+            {
+              "question": "¿Qué son los sueños húmedos?",
+              "answers": [
+                {
+                  "text": "También llamados sueños eróticos son sensaciones de  excitación durante el sueño. Se presentan tanto en hombres  como en mujeres. En el caso de los hombres pueden producir  una eyaculación. En las mujeres un aumento de lubricación en  la vagina. No tienen que ver nada con la fidelidad hacia la  pareja, ni con las creencias o valores de la persona, puesto que  son involuntarios e inconscientes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "El semen aparece durante la pubertad aproximadamente  entre los 11 y 13 años. Es un líquido que contiene  espermatozoides y que se expulsa por el pene durante la  eyaculación.",
+          "qas": [
+            {
+              "question": "¿A qué edad aparece el semen?",
+              "answers": [
+                {
+                  "text": "El semen aparece durante la pubertad aproximadamente  entre los 11 y 13 años. Es un líquido que contiene  espermatozoides y que se expulsa por el pene durante la  eyaculación."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "El tamaño del pene en estado de relajación flácido oscila entre  siete y diez centímetros. El tamaño del pene en estado de  erección puede estar entre los 12 y 17 centímetros. Es  importante anotar que cuando el pene está en erección puede  doblar o triplicar su tamaño, aunque esto depende de la raza y  de la estructura física del hombre.",
+          "qas": [
+            {
+              "question": "¿Cuál es el tamaño normal del pene?",
+              "answers": [
+                {
+                  "text": "El tamaño del pene en estado de relajación flácido oscila entre  siete y diez centímetros. El tamaño del pene en estado de  erección puede estar entre los 12 y 17 centímetros. Es  importante anotar que cuando el pene está en erección puede  doblar o triplicar su tamaño, aunque esto depende de la raza y  de la estructura física del hombre."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Este es uno de los mitos que acompañan a muchos hombres y  mujeres. Ni el tamaño del pene, ni la forma que tiene el pene,  ni la penetración son lo más importante ni lo más placentero  de las relaciones sexuales.",
+          "qas": [
+            {
+              "question": "¿El tamaño del pene es importante para dar placer a la  pareja?",
+              "answers": [
+                {
+                  "text": "Este es uno de los mitos que acompañan a muchos hombres y  mujeres. Ni el tamaño del pene, ni la forma que tiene el pene,  ni la penetración son lo más importante ni lo más placentero  de las relaciones sexuales."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "La erección en los jóvenes es casi “automática” ante cualquier  estímulo erótico o de otra clase, por ejemplo, ante situaciones  de estrés o susto (cuando el chico debe hablar ante su clase o  cuando ve una película de terror, por ejemplo); a veces, se  torna en una situación incómoda y difícil de disimular. Esta  manifestación excitatoria va desapareciendo a medida que los  hombres van avanzando en edad.",
+          "qas": [
+            {
+              "question": "¿Es normal que un hombre tenga erecciones frecuentes ante  un beso, un pensamiento o un roce?",
+              "answers": [
+                {
+                  "text": "La erección en los jóvenes es casi “automática” ante cualquier  estímulo erótico o de otra clase, por ejemplo, ante situaciones  de estrés o susto (cuando el chico debe hablar ante su clase o  cuando ve una película de terror, por ejemplo); a veces, se  torna en una situación incómoda y difícil de disimular. Esta  manifestación excitatoria va desapareciendo a medida que los  hombres van avanzando en edad."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Órgano sexual muy sensible en la mujer, ubicado en la vulva.  El clítoris de la mujer es el equivalente al pene en el hombre,  que al ser estimulado aumenta de volumen y produce placer  sexual debido a que tiene muchas terminaciones nerviosas. La  estimulación del clítoris debe estar acompañada del deseo  sexual, de la disposición y la voluntad de la mujer para que la  actividad sexual resulte agradable y placentera.",
+          "qas": [
+            {
+              "question": "¿Qué es el clítoris?",
+              "answers": [
+                {
+                  "text": "Órgano sexual muy sensible en la mujer, ubicado en la vulva.  El clítoris de la mujer es el equivalente al pene en el hombre,  que al ser estimulado aumenta de volumen y produce placer  sexual debido a que tiene muchas terminaciones nerviosas. La  estimulación del clítoris debe estar acompañada del deseo  sexual, de la disposición y la voluntad de la mujer para que la  actividad sexual resulte agradable y placentera."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Es el tiempo de duración entre una menstruación y otra,  contando desde el primer día de sangrado menstrual hasta el  primer día de la siguiente menstruación. Por ejemplo, si a una  mujer le llegó la menstruación el día cinco de junio (primer día  de ciclo menstrual) y volvió a menstruar el 30 de junio, puede  decirse que su ciclo fue de 26 días. El ciclo menstrual es  variable de una mujer a otra y tiene días de más alto riesgo de  embarazo.",
+          "qas": [
+            {
+              "question": "¿Qué es un ciclo menstrual?",
+              "answers": [
+                {
+                  "text": "Es el tiempo de duración entre una menstruación y otra,  contando desde el primer día de sangrado menstrual hasta el  primer día de la siguiente menstruación. Por ejemplo, si a una  mujer le llegó la menstruación el día cinco de junio (primer día  de ciclo menstrual) y volvió a menstruar el 30 de junio, puede  decirse que su ciclo fue de 26 días. El ciclo menstrual es  variable de una mujer a otra y tiene días de más alto riesgo de  embarazo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Es la estimulación personal de los genitales para obtener  excitación y placer sexual. Puesto que el placer es un derecho  de todas las personas la masturbación no es una práctica  exclusiva de los hombres, las mujeres también la realizan.",
+          "qas": [
+            {
+              "question": "¿Qué es la masturbación?",
+              "answers": [
+                {
+                  "text": "Es la estimulación personal de los genitales para obtener  excitación y placer sexual. Puesto que el placer es un derecho  de todas las personas la masturbación no es una práctica  exclusiva de los hombres, las mujeres también la realizan."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "No, todas esas son ideas que se han difundido para crear  miedo hacia la masturbación y por lo tanto son falsas. La  masturbación no influye en ninguna de estas circunstancias,  pues los barros y la estatura son características propias del  desarrollo durante la adolescencia. Los pelos en la palma de la  mano nunca salen.",
+          "qas": [
+            {
+              "question": "¿Es verdad que cuando una persona se masturba le salen  barros, pelos en la palma de la mano o no crece en estatura?",
+              "answers": [
+                {
+                  "text": "No, todas esas son ideas que se han difundido para crear  miedo hacia la masturbación y por lo tanto son falsas. La  masturbación no influye en ninguna de estas circunstancias,  pues los barros y la estatura son características propias del  desarrollo durante la adolescencia. Los pelos en la palma de la  mano nunca salen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "La zona anal depende de las mismas estructuras embriológicas  de los órganos genitales en el momento de la formación del  feto. Eso explica por qué los hombres y las mujeres pueden  tener orgasmos en el sexo anal. Para que haya un goce mutuo,  la pareja debe estar libre de presiones, disfrutar un juego  erótico preliminar adecuado y utilizar condón y lubricante.",
+          "qas": [
+            {
+              "question": "¿Las personas sienten placer cuando practican el sexo anal?",
+              "answers": [
+                {
+                  "text": "La zona anal depende de las mismas estructuras embriológicas  de los órganos genitales en el momento de la formación del  feto. Eso explica por qué los hombres y las mujeres pueden  tener orgasmos en el sexo anal. Para que haya un goce mutuo,  la pareja debe estar libre de presiones, disfrutar un juego  erótico preliminar adecuado y utilizar condón y lubricante."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Es el contacto de los labios con el orificio del ano, generando  sensaciones de excitación y placer en la pareja. Algunas  personas lo realizan dentro de un juego erótico, de  sensualidad, de conocimiento de sí mismo y del otro.",
+          "qas": [
+            {
+              "question": "¿Qué es el beso negro?",
+              "answers": [
+                {
+                  "text": "Es el contacto de los labios con el orificio del ano, generando  sensaciones de excitación y placer en la pareja. Algunas  personas lo realizan dentro de un juego erótico, de  sensualidad, de conocimiento de sí mismo y del otro."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "El ano, la vagina y la boca son mucosas, tejidos muy sensibles  a contraer infecciones, enfermedades y/o lesiones. Si los  genitales de la persona con quien se está teniendo la relación  sexual oral o anal se encuentran infectados con algún virus o  bacteria, los va a pasar a su pareja. La única forma de prevenir  una Infección de Transmisión Sexual es con el uso adecuado  del condón en todas las relaciones sexuales, bien sea vaginal,  oral o anal.",
+          "qas": [
+            {
+              "question": "¿Por qué a través de las relaciones sexuales anales y orales  también se puede adquirir una Infección de Transmisión  Sexual (ITS)?",
+              "answers": [
+                {
+                  "text": "El ano, la vagina y la boca son mucosas, tejidos muy sensibles  a contraer infecciones, enfermedades y/o lesiones. Si los  genitales de la persona con quien se está teniendo la relación  sexual oral o anal se encuentran infectados con algún virus o  bacteria, los va a pasar a su pareja. La única forma de prevenir  una Infección de Transmisión Sexual es con el uso adecuado  del condón en todas las relaciones sexuales, bien sea vaginal,  oral o anal."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Sí, esa es una decisión personal y de pareja. Si la persona  decide practicarlas es recomendable utilizar siempre condón  para prevenir Infecciones de Transmisión Sexual (ITS) incluido  el VIH/Sida.",
+          "qas": [
+            {
+              "question": "¿Se pueden tener relaciones sexuales orales y anales?",
+              "answers": [
+                {
+                  "text": "Sí, esa es una decisión personal y de pareja. Si la persona  decide practicarlas es recomendable utilizar siempre condón  para prevenir Infecciones de Transmisión Sexual (ITS) incluido  el VIH/Sida."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "No tiene nada que ver con la esterilidad.",
+          "qas": [
+            {
+              "question": "¿La masturbación causa esterilidad?",
+              "answers": [
+                {
+                  "text": "No tiene nada que ver con la esterilidad."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "No es cierto, la vaselina nunca se debe aplicar sobre los  genitales porque puede propiciar infecciones. Si se desea  utilizar alguna sustancia para facilitar la lubricación, se  recomienda usar lubricantes a base de agua que son  elaborados exclusivamente para actividades sexuales.",
+          "qas": [
+            {
+              "question": "¿Es cierto que si un hombre se aplica vaselina en el pene  evita que la mujer sienta dolor durante la relación sexual?",
+              "answers": [
+                {
+                  "text": "No es cierto, la vaselina nunca se debe aplicar sobre los  genitales porque puede propiciar infecciones. Si se desea  utilizar alguna sustancia para facilitar la lubricación, se  recomienda usar lubricantes a base de agua que son  elaborados exclusivamente para actividades sexuales."
                 }
               ]
             }

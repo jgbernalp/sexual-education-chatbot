@@ -1,3 +1,9 @@
 .vscode
 __pycache__
 env
+bin
+include
+lib
+.Python
+*.pyc
+*.cfg

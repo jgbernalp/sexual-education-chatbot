@@ -1,0 +1,33 @@
+{% extends 'base.html' %} {% block header %}
+<h1>{% block title %}Preguntale a tirando x Colombia{% endblock %}</h1>
+{% endblock %} {% block content %}
+<section class="section">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-half">
+        <form method="get" class="form">
+          <h1>Escribe tu pregunta</h1>
+          <div class="field">
+            <p class="control">
+              <input
+                class="input"
+                name="q"
+                id="q"
+                required
+                placeholder="¿Qué es la masturbación?"
+              />
+            </p>
+          </div>
+        </form>
+        {% if answer %}
+        <div class="notification is-danger mt-3">{{ answer }}</div>
+        {% endif %} {% if second_answer %}
+        <div class="notification is-danger is-light mt-3">
+          {{ second_answer }}
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}

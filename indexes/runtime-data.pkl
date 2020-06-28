@@ -1,0 +1,266 @@
+(dp0
+S'built'
+p1
+I01
+sS'i'
+p2
+I60
+sS'metric'
+p3
+S'angular'
+p4
+sS'dims'
+p5
+I512
+sS'id_map'
+p6
+(dp7
+VAlgunas  personas lo realizan dentro de un juego erótico, de  sensualidad, de conocimiento de sí mismo y del otro.
+p8
+I1
+sVEs un embarazo imaginario y se puede presentar en mujeres  que desean intensamente una gestación.
+p9
+I6
+sVLos métodos modernos definitivos son procedimientos quirúrgicos que evitarán que el hombre y la mujer vuelvan a tener hijos de por vida.
+p10
+I13
+sVEs la estimulación personal de los genitales para obtener  excitación y placer sexual.
+p11
+I36
+sVEl tamaño del pene en estado de relajación flácido oscila entre  siete y diez centímetros.
+p12
+I25
+sVEn las mujeres un aumento de lubricación en  la vagina.
+p13
+I49
+sVEsta es una idea errónea que se ha difundido y se utiliza como una excusa para no usar el condón.
+p14
+I24
+sVEl ano, la vagina y la boca son mucosas, tejidos muy sensibles  a contraer infecciones, enfermedades y/o lesiones.
+p15
+I47
+sVNo, el uso de anticonceptivos no tiene nada que ver con las  alteraciones reproductivas o problemas de fertilidad, evitan  embarazo mientras la persona los utilice correctamente,  cuando los suspende retorna la fertilidad.
+p16
+I23
+sVSí, esa es una decisión personal y de pareja.
+p17
+I10
+sVEs  importante anotar que cuando el pene está en erección puede  doblar o triplicar su tamaño, aunque esto depende de la raza y  de la estructura física del hombre.
+p18
+I30
+sVA partir de la menarquia (primera menstruación) los ciclos  pueden ser irregulares durante varios meses presentándose  retrasos frecuentes, lo cual está dado por la inmadurez del  cuerpo.
+p19
+I50
+sVSí, el embarazo en las adolescentes se considera de alto riesgo  y en ellas son más frecuentes alteraciones o enfermedades  como hipertensión, anemia, complicaciones nutricionales,  bajo peso del feto al nacer, parto prematuro y complicaciones  durante el parto.
+p20
+I39
+sVEs el contacto de los labios con el orificio del ano, generando  sensaciones de excitación y placer en la pareja.
+p21
+I11
+sVEn el caso de los hombres pueden producir  una eyaculación.
+p22
+I54
+sVNo tienen que ver nada con la fidelidad hacia la  pareja, ni con las creencias o valores de la persona, puesto que  son involuntarios e inconscientes.
+p23
+I38
+sVLa  estimulación del clítoris debe estar acompañada del deseo  sexual, de la disposición y la voluntad de la mujer para que la  actividad sexual resulte agradable y placentera.
+p24
+I20
+sVEsto puede considerarse normal.
+p25
+I9
+sVEs el tiempo de duración entre una menstruación y otra,  contando desde el primer día de sangrado menstrual hasta el  primer día de la siguiente menstruación.
+p26
+I57
+sVEsta  manifestación excitatoria va desapareciendo a medida que los  hombres van avanzando en edad.
+p27
+I56
+sVOtras causas de  retrasos pueden ser la falta de ovulación, ovulación retardada,  estrés, cambio de clima, situaciones emocionales especiales,  temor al embarazo y embarazo, entre otros.
+p28
+I53
+sVEl semen aparece durante la pubertad aproximadamente  entre los 11 y 13 años.
+p29
+I46
+sVSe presentan tanto en hombres  como en mujeres.
+p30
+I28
+sVSí, aunque sea la primera relación sexual cuando ésta se  practica durante los días fértiles o de ovulación y no se emplea  un método anticonceptivo, la mujer puede quedar  embarazada.
+p31
+I27
+sVNo, el condón debe usarse siempre, en todas las relaciones  sexuales porque es el único método que puede prevenir las  Infecciones de Transmisión Sexual (ITS) incluido el VIH/Sida.
+p32
+I58
+sVEl placer durante la relación depende del deseo sexual, la atracción hacia la otra persona, la relación de pareja, los juegos eróticos, de disminuir los riesgos de embarazo e infecciones y de si se tomó la decisión de manera autónoma.
+p33
+I41
+sVEl ciclo menstrual es  variable de una mujer a otra y tiene días de más alto riesgo de  embarazo.
+p34
+I14
+sVPor ejemplo, si a una  mujer le llegó la menstruación el día cinco de junio (primer día  de ciclo menstrual) y volvió a menstruar el 30 de junio, puede  decirse que su ciclo fue de 26 días.
+p35
+I16
+sVLa erección en los jóvenes es casi \u201cautomática\u201d ante cualquier  estímulo erótico o de otra clase, por ejemplo, ante situaciones  de estrés o susto (cuando el chico debe hablar ante su clase o  cuando ve una película de terror, por ejemplo); a veces, se  torna en una situación incómoda y difícil de disimular.
+p36
+I48
+sVLa zona anal depende de las mismas estructuras embriológicas  de los órganos genitales en el momento de la formación del  feto.
+p37
+I29
+sVEs un líquido que contiene  espermatozoides y que se expulsa por el pene durante la  eyaculación.
+p38
+I51
+sVSon métodos que ayudan a prevenir el embarazo a través de elementos ajenos al cuerpo y se dividen en métodos modernos temporales y métodos modernos definitivos.
+p39
+I33
+sVNi el tamaño del pene, ni la forma que tiene el pene,  ni la penetración son lo más importante ni lo más placentero  de las relaciones sexuales.
+p40
+I5
+sVCuando la madre es una adolescente es más  frecuente que el recién nacido se enferme o fallezca durante  el primer año de vida.
+p41
+I59
+sVInhiben o aceleran el proceso de ovulación para que no  ocurra la fecundación.
+p42
+I34
+sVHombres y  mujeres de cualquier edad tienen derecho a estar informados  y acceder a los métodos anticonceptivos, lo importante es que  la persona conozca el funcionamiento del método, la forma de  uso y si produce efectos secundarios.
+p43
+I0
+sVLa mayoría de las  causas son fácilmente detectables y tratables.
+p44
+I12
+sVSi los  genitales de la persona con quien se está teniendo la relación  sexual oral o anal se encuentran infectados con algún virus o  bacteria, los va a pasar a su pareja.
+p45
+I17
+sVPara evitar esas falsas creencias en el mercado se encuentran condones de sabores, texturas y colores, que contribuyen a la estimulación al momento de la relación sexual.
+p46
+I4
+sVSi la persona  decide practicarlas es recomendable utilizar siempre condón  para prevenir Infecciones de Transmisión Sexual (ITS) incluido  el VIH/Sida.
+p47
+I45
+sVLa única forma de prevenir  una Infección de Transmisión Sexual es con el uso adecuado  del condón en todas las relaciones sexuales, bien sea vaginal,  oral o anal.
+p48
+I43
+sVLa responsabilidad es de los dos debido a que es una situación  que hace parte del proyecto de vida de cada uno(a).
+p49
+I21
+sVPuesto que el placer es un derecho  de todas las personas la masturbación no es una práctica  exclusiva de los hombres, las mujeres también la realizan.
+p50
+I52
+sVEl clítoris de la mujer es el equivalente al pene en el hombre,  que al ser estimulado aumenta de volumen y produce placer  sexual debido a que tiene muchas terminaciones nerviosas.
+p51
+I7
+sVLo que realmente funciona es el uso adecuado de métodos anticonceptivos modernos o la abstención.
+p52
+I3
+sVA través de una  prueba de embarazo se puede confirmar el diagnóstico y  acudir a tratamiento para solucionar esta alteración emocional  que lleva a desarrollar el embarazo psicológico.
+p53
+I42
+sVNo es cierto, la vaselina nunca se debe aplicar sobre los  genitales porque puede propiciar infecciones.
+p54
+I31
+sVPor lo tanto, si la  mujer tiene una relación sexual sin protección, incluso sin  haber tenido la primera menstruación, puede quedar  embarazada.
+p55
+I18
+sVNo, como su nombre lo indica son píldoras anticonceptivas de  emergencia que tienen varias formas de actuar: Incrementan y  vuelven más espeso el moco o flujo del cuello uterino o cérvix,  impidiendo la movilidad y el paso de espermatozoides hacia el  útero.
+p56
+I55
+sVLos pelos en la palma de la  mano nunca salen.
+p57
+I26
+sVSí, existe la posibilidad de un embarazo porque aunque la  eyaculación se haya quedado en la entrada de la vagina  algunos espermatozoides pueden llegar hasta el óvulo.
+p58
+I35
+sVLa  masturbación no influye en ninguna de estas circunstancias,  pues los barros y la estatura son características propias del  desarrollo durante la adolescencia.
+p59
+I22
+sVNo, todas esas son ideas que se han difundido para crear  miedo hacia la masturbación y por lo tanto son falsas.
+p60
+I15
+sVSi se desea  utilizar alguna sustancia para facilitar la lubricación, se  recomienda usar lubricantes a base de agua que son  elaborados exclusivamente para actividades sexuales.
+p61
+I40
+sVEstas mujeres  presentan todos los síntomas subjetivos de embarazo,  asociados con un considerable aumento del volumen  abdominal, aumento del tamaño de los senos, aparición de  secreción por los pezones y malestar general.
+p62
+I32
+sVEl tamaño del pene en estado de  erección puede estar entre los 12 y 17 centímetros.
+p63
+I37
+sVEste es uno de los mitos que acompañan a muchos hombres y  mujeres.
+p64
+I8
+sVTambién llamados sueños eróticos son sensaciones de  excitación durante el sueño.
+p65
+I19
+sVNo, ninguna de estas sustancias tiene efectos anticonceptivos para evitar un embarazo, por lo tanto esa idea sólo hace parte de la imaginación de las personas y de algunas falsas creencias populares.
+p66
+I44
+sVDesde el momento en que tiene su primera ovulación, que  ocurre antes de la primera menstruación.
+p67
+I2
+ssS'corpus'
+p68
+(lp69
+g43
+ag8
+ag67
+ag52
+ag46
+ag40
+ag9
+ag51
+ag64
+ag25
+ag17
+ag21
+ag44
+ag10
+ag34
+ag60
+ag35
+ag45
+ag55
+ag65
+ag24
+ag49
+ag59
+ag16
+ag14
+ag12
+ag57
+ag31
+ag30
+ag37
+ag18
+ag54
+ag62
+ag39
+ag42
+ag58
+ag11
+ag63
+ag23
+ag20
+ag61
+ag33
+ag53
+ag48
+ag66
+ag47
+ag29
+ag15
+ag36
+ag13
+ag19
+ag38
+ag50
+ag28
+ag22
+ag56
+ag27
+ag26
+ag32
+ag41
+asS'_backend_class'
+p70
+csimpleneighbors.backends.annoy_
+Annoy
+p71
+s.
