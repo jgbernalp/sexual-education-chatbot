@@ -10,7 +10,16 @@
   html {
     font-size: 20px;
   }
+  .powered-by {
+    position: fixed;
+    bottom: 8px;
+    right: 8px;
+    font-size: 0.5rem;
+  }
 </style>
 <section class="content">
   {% block content %}{% endblock %}
 </section>
+<div class="powered-by">
+  Powered by <a href="https://www.zygo.mobi/">Zygo</a>
+</div>

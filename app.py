@@ -4,7 +4,6 @@ from flask import request, jsonify, render_template
 from index import get_answer, load_index
 
 app = flask.Flask(__name__)
-# app.config["DEBUG"] = True
 
 index_file = "./indexes/runtime"
 
