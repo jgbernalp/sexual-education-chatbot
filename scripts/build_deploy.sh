@@ -12,6 +12,7 @@ echo "       |___/  |___/        \033[0m\n\n"
 echo "\033[32m Building image tag...\033[0m 🏷\n"
 SHORT_HASH=$(git rev-parse --short HEAD)
 IMAGE_TAG="gcr.io/gfrog-commerce/chatbot:${SHORT_HASH}"
+echo "$IMAGE_TAG\n"
 
 echo "\033[32m Building image...\033[0m 🛠\n"
 docker build -t $IMAGE_TAG .
@@ -21,3 +22,5 @@ docker push $IMAGE_TAG
 
 echo "\033[32m Deploying to google cloud...\033[0m 🚀\n"
 gcloud run deploy chatbot --image $IMAGE_TAG --platform managed --allow-unauthenticated
+
+echo "\033[32m Done!\033[0m 😎\n"
