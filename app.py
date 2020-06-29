@@ -1,3 +1,4 @@
+import os
 import flask
 from flask import request, jsonify, render_template
 from index import get_answer, load_index
@@ -29,5 +30,6 @@ def api_answers():
     return jsonify(get_answer(index, question))
 
 
-if __name__ == "__main__":
-    app.run()
+port = int(os.environ.get('PORT', 8080))
+if __name__ == '__main__':
+    app.run(threaded=True, host='0.0.0.0', port=port)

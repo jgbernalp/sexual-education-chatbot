@@ -75,4 +75,7 @@ def train_model(file_path):
 
     index.build()
     print('simpleneighbors index for %s sentences built.' % len(sentences))
-    index.save('indexes/runtime')
+    timestr = time.strftime("%Y%m%d-%H%M%S")
+    filename = "indexes/runtime_%s" % timestr
+    index.save(filename)
+    print('index saved in: %s' % timestr)

@@ -1,9 +1,8 @@
 .vscode
 __pycache__
 env
-bin
-include
-lib
-.Python
 *.pyc
+venv
 *.cfg
+indexes/runtime_*.idx
+indexes/runtime_*.pkl
