@@ -58,6 +58,14 @@ index_{date}.idx -> index.idx
 index_{date}-data.idx -> index-data.plk
 ```
 
+## To deploy
+
+Having the proper google cloud credentials and docker configuration:
+
+```
+./scripts/build_deploy.sh
+```
+
 ## Troubleshooting
 
 The index build script might get stuck while `encoding sentences` or `computing embedidngs`, this is an indication that you are not using the proper interpreter (python 2.7). Make sure you are using the interpreter provided by the virtual environment and not the one on your system.
