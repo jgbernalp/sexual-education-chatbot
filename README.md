@@ -47,7 +47,7 @@ Activate your virtual environment and run
 python bootstrap_train.py
 ```
 
-This will run build the index based on the `questions_answers.json` file, the index will be stored in the `indexes` folder.
+This will build the index based on the `questions_answers.json` file, the index will be stored in the `indexes` folder.
 
 ## To use a new index
 
