@@ -51,7 +51,7 @@ simpleneighbors==0.1.0
 singledispatch==3.4.0.3
 six==1.15.0
 tensorboard==2.1.0
-tensorflow==2.1.0
+tensorflow==2.1.2
 tensorflow-estimator==2.1.0
 tensorflow-hub==0.8.0
 tensorflow-text==2.1.1
