@@ -6,7 +6,7 @@ autopep8==1.5.3
 backports.functools-lru-cache==1.6.1
 backports.weakref==1.0.post1
 cachetools==3.1.1
-certifi==2020.6.20
+certifi==2022.12.7
 chardet==3.0.4
 click==7.1.2
 configparser==4.0.2
